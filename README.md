@@ -1,3 +1,2 @@
-# Live Site URL
-quick-note-deploy-b19g7l8lz-vneyney28.vercel.app
+# Live Site URL https://quick-note-deploy.vercel.app/
 ## QuickNote is a notes taking app created using react
